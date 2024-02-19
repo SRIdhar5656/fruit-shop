@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Appbar from './components/Appbar';
 import Filters from './components/filters';
+import Items from './components/items';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
    
 <Appbar />
 <Filters/>
+<Items />
 
     </>
   );
