@@ -3,6 +3,7 @@ import './App.css';
 import Appbar from './components/Appbar';
 import Filters from './components/filters';
 import Items from './components/items';
+import SeasonSpecials from './components/SeasonSpecials';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
 <Appbar />
 <Filters/>
 <Items />
+<SeasonSpecials />
 
     </>
   );
