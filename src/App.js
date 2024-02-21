@@ -4,6 +4,7 @@ import Appbar from './components/Appbar';
 import Filters from './components/filters';
 import Items from './components/items';
 import SeasonSpecials from './components/SeasonSpecials';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
 <Filters/>
 <Items />
 <SeasonSpecials />
+<Footer />
 
     </>
   );

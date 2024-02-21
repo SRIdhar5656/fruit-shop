@@ -14,7 +14,7 @@ function Appbar() {
         <div className="md:flex justify-between w-5/6 md:max-w-7xl mx-auto">
           <div className="flex justify-between">
           <div>
-            <span class="text-4xl font-bold text-green-500  ">Fruit </span>
+            <span class="text-4xl font-bold text-green-500  " >Fruit </span>
             <span class="text-3xl font-thin text-stone-500 font-display">
               Shop
             </span>

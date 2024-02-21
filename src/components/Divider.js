@@ -9,8 +9,8 @@ function Divider ({title}) {
             </div>
             {/* text */}
             <div className=' flex justify-center'>
-                <div className='font-display text-slate-600 text-4xl bg-white relative px-3'>SeasonSpecials</div>
-                {title}
+                <div className='font-display text-slate-600 text-4xl bg-white relative px-3'>{title}</div>
+                
             </div>
         </div>
   )
