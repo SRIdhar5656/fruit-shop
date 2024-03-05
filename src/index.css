@@ -15,4 +15,5 @@
 .mennu1 {
   @apply font-bond border border-slate-400 py-3 px-16 rounded-full transform hover:scale-110 duration-100 my-3 md:my-0 m-2
 }
+
  
